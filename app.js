@@ -17,7 +17,7 @@ let contador = 7;
 let intentos = 1;
 let juegoTerminado = false;
 let listaNumerosAleatorios = [];
-const numeroMaximo = 5;
+const numeroMaximo = 100;
 
 //Agrega texto a un elemento segun su selector y texto
 function asignarTextoElemento (elemento, texto) {
